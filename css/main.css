@@ -1,0 +1,9 @@
+body {
+    background-image: url(../imgs/background.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+}
